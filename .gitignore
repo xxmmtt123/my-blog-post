@@ -1,2 +1,5 @@
+# macOS metadata file
 .DS_Store
+
+# Local config file
 config.py
